@@ -1,3 +1,2 @@
 const bdDica = []
-
 export {bdDica}
